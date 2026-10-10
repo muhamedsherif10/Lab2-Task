@@ -14,3 +14,8 @@ Opening pull requests
 Merging changes into the main branch
 
 This task helps me understand the basic GitHub collaboration workflow.
+What I Learned
+- How to create a branch.
+- How to make a commit.
+- How to open a pull request.
+- How to merge changes into main.
